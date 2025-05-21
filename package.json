@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "@lottiefiles/dotlottie-web": "^0.44.0",
-    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.2",
     "cookie-parser": "^1.4.7",
     "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
